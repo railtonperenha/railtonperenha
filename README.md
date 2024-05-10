@@ -1,16 +1,14 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/railtonperenha/15e24589eda7ff9bcc8b97520d4d2eae/raw/2669367ecf787aa88fe784607a6c33596f976238/profilecard.svg"/>
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Sou o Railton Perenha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=railtonperenha&color=yellow" alt="Profile views" /> </p>
+<!-- **railtonperenha/railtonperenha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Conheça-me um pouco mais:
 
-**railtonperenha/railtonperenha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Fortbras Autopecas S.A
-- 🌱 I’m currently learning Java, JavaScript, HTML, CSS and Bootstrap
-- 💬 Ask me about my studies
-- 📫 How to reach me: railtonperenha@gmail.com
-- 😄 Fun fact: I like anime!
+- 👨🏽‍💻 Atualmente estou trabalhando em um projeto pessoal
+- 📖 Atualmente estou estudando Java, JavaScript, HTML, CSS e Bootstrap
+- 💬 Pergunte me sobre meus estudos, trabalho e hobbie
+- 😄 Fato engraçado: Eu gosto de anime e escuto LoFi
+- ⚽ Time do coração: Palmeiras 💚
 
 <br><br>
 
